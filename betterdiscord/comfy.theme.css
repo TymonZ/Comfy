@@ -2,7 +2,7 @@
 * @name pxltr green
 * @author pxltr#2799
 * @description Stay comfy while talking to your friends
-* @invite rtBQX5D3bD
+* @invite P3Sbr5mawQ
 * @version 2.0
 */
 
@@ -53,7 +53,7 @@
 
 /* Mention color */
 --mention-color: #FB3D66;
---unread-color: #7289da;
+--unread-color: #6BB48D;
 
 /* Mention color in chat */
 --mention-color-bar: #FB3D66;
@@ -119,19 +119,30 @@
     --channeltextarea-background: #112b2e;
     --background-accent: #92D3A2;
     --background-message-hover: transparent;
-    --background-modifier-hover: #112c2e;
+    --background-modifier-hover: #0e2425;
     --background-modifier-active: #163232;
     --background-modifier-selected: #112b2e;
     --deprecated-card-bg: #030D0F;
     --background-floating: #030D0F;
     --deprecated-quickswitcher-input-background:#030D0F;
     --elevation-low: none;
-    --scrollbar-auto-thumb: #121722;
-    --scrollbar-auto-track: #112b2e;
-    --scrollbar-thin-thumb: #141925;
+    --scrollbar-auto-thumb: #112b2e;
+    --scrollbar-auto-track: #15363a;
+    --scrollbar-thin-thumb: #0c2022;
     --activity-card-background: #030D0F;
-	--text-normal: #e6ddd4;
+
+	--text-normal: #ddd2c9;
 	--channels-default: #c9b9a9;
+
+	--header-primary: #eee8e3;
+	--header-secondary: #c9b9a9;
+
+	--interactive-normal: #eee8e3;
+	--interactive-active: #eee8e3;
+	--interactive-muted: rgba(238, 231, 227, 0.301);
+
+	--brand-experiment-05a: #0e2425;
+	--brand-experiment: #6BB48D;
 }
 
 .theme-light { /* I don't support light theme it's just for the "Create a server" popup */
