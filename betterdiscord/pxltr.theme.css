@@ -117,7 +117,7 @@
     --background-mobile-primary: #071E24;
     --background-mobile-secondary: #051519;
     --channeltextarea-background: #112b2e;
-    --background-accent: #92D3A2;
+    --background-accent: #6BB48D;
     --background-message-hover: transparent;
     --background-modifier-hover: #0e2425;
     --background-modifier-active: #163232;
@@ -132,6 +132,7 @@
     --activity-card-background: #030D0F;
 
 	--text-normal: #ddd2c9;
+	--text-muted: rgba(238, 231, 227, 0.301);
 	--channels-default: #c9b9a9;
 
 	--header-primary: #eee8e3;
@@ -142,7 +143,7 @@
 	--interactive-muted: rgba(238, 231, 227, 0.301);
 
 	--brand-experiment-05a: #0e2425;
-	--brand-experiment: #6BB48D;
+	--brand-experiment: #6bb48ddf;
 }
 
 .theme-light { /* I don't support light theme it's just for the "Create a server" popup */
